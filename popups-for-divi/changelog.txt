@@ -1,3 +1,7 @@
+= Version 3.2.5 =
+* Improve: Support for Divi 5
+* Improve: Functionality to triggers Popups
+
 = Version 3.2.4 =
 * Improve: Functionality to detect Popup triggers
 * Improve: Add Popup Settings panel in Divi 5 Section module
