@@ -3,7 +3,7 @@ Contributors: timstrifler, devjenndivilife, strackerphil-1
 Tags: popup, marketing, divi
 Requires at least: 4.0.0
 Tested up to: 6.9
-Stable tag: 3.2.5
+Stable tag: 3.2.6
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -175,9 +175,12 @@ When you need additional features, then please have a look at our the Premium pl
 
 == Changelog ==
 
+= Version 3.2.6 =
+- Fix: Visual Builder notice error related to Divi 5 conversion outline
+
 = Version 3.2.5 =
 - Improve support for Divi 5
-- Improve functionality to triggers Popups
+- Improve functionality to trigger Popups
 
 = Version 3.2.4 =
 - Improve functionality to detect Popup triggers
